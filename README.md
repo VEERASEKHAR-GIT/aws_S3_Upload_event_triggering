@@ -1,3 +1,7 @@
+## Author
+
+- Veera Sekhar Patibandla
+
 # aws_S3_Upload_event_triggering
 Send notification to gmail when we upload a file in s3 bucket
 # AWS S3 Event Triggering in Top Industry Companies
